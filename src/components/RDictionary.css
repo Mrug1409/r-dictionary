@@ -1,0 +1,72 @@
+ .R-dictionary {
+  font-family: Arial, sans-serif;
+  max-width: 80%;
+  margin: 40px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+  background-color: #9b5858;
+  text-align: center; 
+  border-radius: 10px;
+
+}
+
+.R-dictionary h2 {
+  color: #948c8c;
+}
+
+.R-dictionary select {
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+  font-size: 16px;
+}
+
+.R-dictionary .search-bar {
+  margin: 0 auto; 
+  max-width: 300px; 
+
+
+}
+
+.R-dictionary .button-container {
+  margin-top: 10px; 
+}
+
+.R-dictionary .show-button {
+  display: block;
+  margin: 0 auto; 
+  padding: 10px 20px;
+  background-color: #0c0c0c;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.R-dictionary .show-button:hover {
+  background-color: #62a968;
+}
+
+.R-dictionary .meaning {
+  margin-top: 20px;
+}
+.upleft{
+  display: flex;
+  align-items: center;
+  
+} 
+.search-bar{
+  border-radius: 10px;
+}
+.search-bar2{
+  border-radius: 30px;
+}
+.upleft label {
+  margin-right: 10px; 
+}
+ 
+
+
+  
+
